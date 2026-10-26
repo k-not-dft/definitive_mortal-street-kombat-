@@ -1,0 +1,16 @@
+{
+  "name": "Mortal Street Kombat",
+  "short_name": "Street Kombat",
+  "description": "Un juego arcade de combate urbano estilo retro.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#010103",
+  "theme_color": "#ff0055",
+  "icons": [
+    {
+      "src": "icono.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
